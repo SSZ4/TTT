@@ -5,7 +5,7 @@
 # 🖥️ 프로젝트 소개
 
 ---
-![Image Pasted at 2023-5-16 10-21.png](output/application/Image Pasted at 2023-5-16 10-21.png)
+![image](https://github.com/SSZ4/TTT/assets/37368388/a674141d-e00f-4dfc-8165-af939383945d)
 
 ### *좋은 습관을 만들고 싶다…!*
 
